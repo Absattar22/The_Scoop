@@ -1,8 +1,8 @@
-# News App
+# The Scoop App
 
 ## About
 
-The News App is a modern news application built using Flutter. It provides users with the latest news articles from various sources. The app is designed to be fast, user-friendly, and visually appealing.
+The Scoop App is a modern news application built using Flutter. It provides users with the latest news articles from various sources. The app is designed to be fast, user-friendly, and visually appealing.
 
 ### Features
 
