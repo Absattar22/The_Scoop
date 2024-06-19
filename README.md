@@ -15,3 +15,11 @@ The Scoop App is a modern news application built using Flutter. It provides user
 - **Flutter**: The app is built using Flutter, allowing for a smooth and responsive UI on both iOS and Android platforms.
 - **WebView**: Embedded WebView to display full news articles.
 - **REST API**: Fetches news articles from a reliable news API.
+
+
+![Sports Screen](https://github.com/Absattar22/The_Scoop/assets/116181912/b3f8f8e1-abb8-4ccd-bbbc-db4e9e4f51bc)
+![Web View Screen](https://github.com/Absattar22/The_Scoop/assets/116181912/cd394619-050f-4086-aee4-78298f0da307)
+![Technology Screen](https://github.com/Absattar22/The_Scoop/assets/116181912/5846179d-6f35-4e36-a89a-ed6a19d5d4b4)
+![Main Screen](https://github.com/Absattar22/The_Scoop/assets/116181912/bbe4068d-71c3-4b26-a307-c0d82d1d9deb)
+
+
