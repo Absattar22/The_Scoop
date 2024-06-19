@@ -18,8 +18,8 @@ The Scoop App is a modern news application built using Flutter. It provides user
 
 ### Some pictures of the App
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/Absattar22/The_Scoop/assets/116181912/bbe4068d-71c3-4b26-a307-c0d82d1d9deb" alt="Main Screen" width="200"/>
-     <img src="https://github.com/Absattar22/The_Scoop/assets/116181912/5846179d-6f35-4e36-a89a-ed6a19d5d4b4" alt="Technology Screen" width="200"/>
+    <img src="https://github.com/Absattar22/The_Scoop/assets/116181912/6ffc664d-b3ed-466e-8dc5-ef9a25eb51a0" alt="Main Screen" width="200"/>
+    <img src="https://github.com/Absattar22/The_Scoop/assets/116181912/5846179d-6f35-4e36-a89a-ed6a19d5d4b4" alt="Technology Screen" width="200"/>
     <img src="https://github.com/Absattar22/The_Scoop/assets/116181912/b3f8f8e1-abb8-4ccd-bbbc-db4e9e4f51bc" alt="Sports Screen" width="200"/>
     <img src="https://github.com/Absattar22/The_Scoop/assets/116181912/cd394619-050f-4086-aee4-78298f0da307" alt="Web View Screen" width="200"/>
 </div>
@@ -27,8 +27,9 @@ The Scoop App is a modern news application built using Flutter. It provides user
 ### App Video Record
 
 
+https://github.com/Absattar22/The_Scoop/assets/116181912/2e66353b-8629-4df6-9567-b0d4c81279aa
 
-https://github.com/Absattar22/The_Scoop/assets/116181912/96cfa389-5f8d-4ed6-bcb1-fdaded3464af
+
 
 
 
