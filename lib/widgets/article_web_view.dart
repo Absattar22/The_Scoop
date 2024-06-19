@@ -26,7 +26,6 @@ class _ArticleWebViewState extends State<ArticleWebView> {
 
   @override
   Widget build(BuildContext context) {
-    bool isLoading = true;
     return Scaffold(
         appBar: AppBar(
           leading: IconButton(
@@ -47,12 +46,7 @@ class _ArticleWebViewState extends State<ArticleWebView> {
           backgroundColor: const Color.fromARGB(255, 5, 9, 20),
         ),
         backgroundColor: const Color.fromARGB(255, 5, 9, 20),
-        body: (isLoading == true)
-            ? const Center(
-                child: CircularProgressIndicator(),
-              )
-            :
-        WebViewWidget(
+        body: WebViewWidget(
           controller: controller,
         ));
   }
