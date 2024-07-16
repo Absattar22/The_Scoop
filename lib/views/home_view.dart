@@ -22,15 +22,15 @@ class HomeView extends StatelessWidget {
         title: RichText(
             text: const TextSpan(children: [
           TextSpan(
-              text: 'News',
+              text: 'The',
               style: TextStyle(
                   color: Color.fromARGB(255, 255, 255, 255),
                   fontSize: 20,
                   fontWeight: FontWeight.bold)),
           TextSpan(
-              text: 'Cloud',
+              text: 'Scoop',
               style: TextStyle(
-                  color: Color.fromARGB(255, 220, 192, 31),
+                  color: Color.fromARGB(255, 241, 145, 34),
                   fontSize: 20,
                   fontWeight: FontWeight.bold))
         ])),
